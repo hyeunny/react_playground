@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="136px" viewBox="0 0 40 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-comms</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icn-comms">
+            <g>
+                <polygon id="BackingColor4" fill="#EF4C3F" points="11.15 85 38.85 85 40 132 10 132"></polygon>
+                <polygon id="BackingColor3" fill="#EF4C3F" points="2.42857143 55 29.1428571 55 30 83 0 83"></polygon>
+                <polygon id="BackingColor2" fill="#EF4C3F" points="10.826087 24 28.173913 24 29 53 10 53"></polygon>
+                <path d="M34.9745152,23 L32.3735211,25.6009941 C31.6008715,26.3736437 30.9860915,27.8913746 31.0002394,28.9807601 L31.9745152,104 L34.9745152,23 Z" id="SideRight" stroke="#333333" stroke-width="2" fill-opacity="0" fill="#FFFFFF" transform="translate(32.987258, 63.500000) scale(-1, 1) translate(-32.987258, -63.500000) "></path>
+                <polygon id="Body" stroke="#333333" stroke-width="2" fill-opacity="0" fill="#FFFFFF" points="8.75 21 31.25 21 35 135 5 135"></polygon>
+                <path d="M9,23 L6.39900589,25.6009941 C5.62635627,26.3736437 5.01157629,27.8913746 5.02572416,28.9807601 L6,104 L9,23 Z" id="SideLeft" stroke="#333333" stroke-width="2" fill-opacity="0" fill="#FFFFFF"></path>
+                <rect id="Roof" stroke="#333333" stroke-width="2" fill-opacity="0" fill="#FFFFFF" x="15" y="17" width="10" height="4"></rect>
+                <path d="M18,0 L18,16" id="RadioStick" stroke="#333333" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="72px" viewBox="0 0 79 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-pro</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="7" y="27" width="64" height="24"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="24" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icn-pro">
+            <g transform="translate(1.000000, 1.000000)">
+                <rect id="BackingColor" fill="#32B67B" x="12" y="32" width="58" height="23"></rect>
+                <use id="Backing" stroke="#333333" mask="url(#mask-2)" stroke-width="4" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <rect id="RightLeg" stroke="#333333" stroke-width="2" fill="#FFFFFF" x="69" y="27" width="4" height="43" rx="1"></rect>
+                <rect id="LeftLeg" stroke="#333333" stroke-width="2" fill="#FFFFFF" x="5" y="27" width="4" height="43" rx="1"></rect>
+                <rect id="TableTop" stroke="#333333" stroke-width="2" fill="#FFFFFF" x="0" y="25" width="77" height="4" rx="1"></rect>
+                <g id="MonitorGrp" transform="translate(23.000000, 0.000000)" stroke="#333333" stroke-width="2" fill="#FFFFFF">
+                    <rect id="Monitor" x="0" y="0" width="32" height="16" rx="1"></rect>
+                    <rect id="MonitorArm" x="14" y="7" width="4" height="16" rx="1"></rect>
+                    <rect id="MonitorBse" x="10" y="21" width="12" height="4" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

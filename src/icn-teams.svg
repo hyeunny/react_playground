@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="88px" viewBox="0 0 80 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icn-teams</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icn-teams">
+            <g transform="translate(1.000000, 1.000000)">
+                <rect id="Body" stroke="#333333" stroke-width="2" fill="#FFFFFF" x="4" y="3" width="70" height="83"></rect>
+                <rect id="Door" stroke="#333333" stroke-width="2" fill="#FFFFFF" x="47" y="51" width="21" height="35"></rect>
+                <circle id="DoorKnob" fill="#333333" cx="63" cy="69" r="2"></circle>
+                <rect id="BackingColor3" fill="#31AAE1" x="12" y="61" width="32" height="16"></rect>
+                <rect id="Window3" stroke="#333333" stroke-width="2" fill-opacity="0" fill="#FFFFFF" x="9" y="58" width="32" height="16"></rect>
+                <rect id="BackingColor2" fill="#31AAE1" x="36" y="12" width="36" height="35"></rect>
+                <rect id="Window2" stroke="#333333" stroke-width="2" fill-opacity="0" fill="#FFFFFF" x="33" y="9" width="36" height="35"></rect>
+                <rect id="BackingColor1" fill="#31AAE1" x="12" y="12" width="18" height="42"></rect>
+                <rect id="Window1" stroke="#333333" stroke-width="2" fill-opacity="0" fill="#FFFFFF" x="9" y="9" width="18" height="43"></rect>
+                <rect id="RoofTop" stroke="#333333" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="78" height="4" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

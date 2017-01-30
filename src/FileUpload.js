@@ -36,7 +36,7 @@ class FileUpload extends Component {
         onDragEnter={this._preventDefault}
         onDragOver={this._preventDefault}
       >
-        <input ref="fileInput" type="file" />
+        <input accept=".csv" type="file" />
         <br/>
         <br/>
         {this.state.loading &&
