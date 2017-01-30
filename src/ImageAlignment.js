@@ -10,13 +10,19 @@ class ImageAlignment extends Component {
     return (
       <div>
         <div style={{width: '33%', float: 'left'}}>
-          <img src={iconPro} />
+          <div style={{height: '200px', position: 'relative'}}>
+            <img style={{position: 'absolute', bottom: '0'}} src={iconPro} />
+          </div>
         </div>
         <div style={{width: '33%', float: 'left'}}>
-          <img src={iconTeams} />
+          <div style={{height: '200px', position: 'relative'}}>
+            <img style={{position: 'absolute', bottom: '0'}} src={iconTeams} />
+          </div>
         </div>
         <div style={{width: '33%', float: 'left'}}>
-          <img src={iconComms} />
+          <div style={{height: '200px', position: 'relative'}}>
+            <img style={{position: 'absolute', bottom: '0'}} src={iconComms} />
+          </div>
         </div>
       </div>
     );
